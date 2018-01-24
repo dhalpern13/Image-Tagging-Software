@@ -1,0 +1,18 @@
+In order to run the program from your command line, do the following:
+
+1.  Set your current directory to subdirectory 'src' of directory 'phase2'.
+
+2.  Compile the program, using the following command:
+
+javac Main.java
+
+3.  Launch the program, using the following command:
+
+java Main
+
+
+Additional tips:
+
+-Clicking on the directory on the main screen, or the image's name in the image view, will open that directory in the computer's file system
+-In edit mode, adding/removing a tag will add/remove the tag from all selected images that do not contain/contain the tag.
+-In the slideshow mode: Use left/right arrow to switch to manual mode. Use up/down arrow to switch back to automatic, and if in automatic, increase/decrease the time per picture.

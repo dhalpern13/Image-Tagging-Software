@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+
+<?import javafx.scene.layout.Pane?>
+<StackPane fx:id="mainPane" minWidth="500" minHeight="500"
+           style="-fx-background-color: #19202b"
+           xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1"
+           fx:controller="controller.SlideShowController">
+
+    <ImageView fx:id="imageDisplay"/>
+    <ImageView fx:id="instructions"/>
+</StackPane>

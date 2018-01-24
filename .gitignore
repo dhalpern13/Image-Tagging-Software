@@ -1,0 +1,19 @@
+# Exlude .ser files
+*.ser
+
+# Exlude log and temporary log files
+Log.txt
+TempTagsLog.txt
+TempImagesLog.txt
+
+# Exclude .class files
+*.class
+
+# Exlude the .idea directory
+.idea/
+
+# Exlude the out directory
+out/
+
+# Exclude .iml files
+*.iml
